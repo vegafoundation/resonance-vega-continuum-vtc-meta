@@ -1,4 +1,4 @@
-# VEGA Continuum VTC Meta
+# VEGA CONTINUUM VTC META
 
 **A Conceptual Framework within the Vega Continuum**
 
@@ -16,7 +16,7 @@ CC BY 4.0 – Creative Commons Attribution 4.0 International
 
 ## Abstract
 
-This repository contains the conceptual publication of **VEGA Continuum VTC Meta**
+This repository contains the conceptual publication of **VEGA CONTINUUM VTC META**
 as part of the Resonance Data and QIRC framework.
 
 ## Contents
